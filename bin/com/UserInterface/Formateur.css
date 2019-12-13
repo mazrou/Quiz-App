@@ -1,0 +1,15 @@
+#root {
+ -fx-background-color:  linear-gradient(lightgray, gray);
+ -fx-padding: 60 190 60 190;
+}
+
+ 
+#btn {
+    -fx-background-radius: 30, 30, 29, 28;
+    -fx-background-color: linear-gradient(orange, orangered );
+}
+ 
+ #Label{
+	-fx-fill:  white;
+	// -fx-background-color:  blue;
+}
